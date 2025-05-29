@@ -47,10 +47,22 @@ Retail chains must anticipate customer demand accurately to avoid overstocking o
     - Streamlit dashboard to interactively visualize predictions by store and department.
 
 ## 💻 Tools and Technologies
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- Statsmodels (ARIMA), Facebook Prophet, TensorFlow/Keras (LSTM)
-- Jupyter Notebooks, Spyder, Streamlit
-- Git for version control
+<P><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Seaborn-44A8B3?style=for-the-badge&logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> 
+<img src="https://img.shields.io/badge/ARIMA-003366?style=for-the-badge&logo=cogs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/LSTM-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />  
+<img src="https://img.shields.io/badge/Joblib-008000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</P>
 
 ## ✔️ Success Criteria
 - Achieve high accuracy and low forecasting error.
