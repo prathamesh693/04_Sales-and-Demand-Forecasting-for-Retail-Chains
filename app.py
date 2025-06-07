@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 27 08:47:12 2025
-
-@author: ratho
-"""
-
 import streamlit as st
 import pandas as pd
 import joblib
